@@ -3,7 +3,8 @@
 #include <cstdlib>
 #include <ctime>
 
-bool Guess(int number) {
+bool Guess(int number) 
+{
 	return false;
 }
 
